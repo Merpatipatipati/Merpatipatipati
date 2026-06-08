@@ -36,7 +36,6 @@ PHILOSOPHY="brick by brick i will make my progress"
 - 🌐 &nbsp;Building **Web Applications** with real-world impact  
 - 📡 &nbsp;Exploring **SIEM**, **DDoS Defense**, and **Network Security**
 - 🛠️ &nbsp;Always learning — one commit at a time
-- 🌱 &nbsp;Currently leveling up in **Full Stack Development**
 
 <br clear="right"/>
 
