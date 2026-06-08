@@ -53,22 +53,26 @@ PHILOSOPHY="brick by brick i will make my progress"
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
 
 **Security & Networking**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-009900?style=for-the-badge&logo=cisco&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux Server](https://img.shields.io/badge/Server_Management-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -83,19 +87,6 @@ PHILOSOPHY="brick by brick i will make my progress"
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Merpatipatipati&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak"/>
-</div>
-
----
-
-### `ls -la ~/projects`
-
-<div align="center">
-
-[![PBL307 SIEM](https://github-readme-stats.vercel.app/api/pin/?username=Merpatipatipati&repo=PBL307-Well.architect.SIEM.Implementation-Web.App&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)](https://github.com/Merpatipatipati/PBL307-Well.architect.SIEM.Implementation-Web.App)
-[![DDoS Defend Matrix](https://github-readme-stats.vercel.app/api/pin/?username=Merpatipatipati&repo=PBL-RKS213-DDoS-Defend-Matrix&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)](https://github.com/Merpatipatipati/PBL-RKS213-DDoS-Defend-Matrix)
-[![Brute Force Tool](https://github-readme-stats.vercel.app/api/pin/?username=Merpatipatipati&repo=Brute_Force_tool&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)](https://github.com/Merpatipatipati/Brute_Force_tool)
-[![Project 707](https://github-readme-stats.vercel.app/api/pin/?username=Merpatipatipati&repo=Project_707&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)](https://github.com/Merpatipatipati/Project_707)
-
 </div>
 
 ---
