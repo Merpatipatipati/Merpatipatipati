@@ -81,11 +81,6 @@ PHILOSOPHY="brick by brick i will make my progress"
 ### `git log --stats`
 
 <div align="center">
-  <img height="180em" src="https://merpati.hazz.vercel.app/api?username=Merpatipatipati&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
-  <img height="180em" src="https://merpati.hazz.vercel.app/api/top-langs/?username=Merpatipatipati&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Merpatipatipati&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak"/>
 </div>
 
@@ -96,7 +91,7 @@ PHILOSOPHY="brick by brick i will make my progress"
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Merpatipatipati-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Merpatipatipati)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00ff41?style=for-the-badge&logo=firefox&logoColor=black)](https://merpatipatipati.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00ff41?style=for-the-badge&logo=firefox&logoColor=black)](https://hammwisz.tech)
 
 </div>
 
