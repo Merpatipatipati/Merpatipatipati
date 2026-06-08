@@ -81,8 +81,8 @@ PHILOSOPHY="brick by brick i will make my progress"
 ### `git log --stats`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Merpatipatipati&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merpatipatipati&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+  <img height="180em" src="https://merpati.hazz.vercel.app/api?username=Merpatipatipati&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
+  <img height="180em" src="https://merpati.hazz.vercel.app/api/top-langs/?username=Merpatipatipati&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
