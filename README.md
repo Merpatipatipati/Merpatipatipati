@@ -68,6 +68,4 @@ PHILOSOPHY="brick by brick i will make my progress"
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Merpatipatipati&color=00ff41&style=flat-square&label=profile+views)
-
 </div>
