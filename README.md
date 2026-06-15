@@ -23,11 +23,7 @@
 $ cat /etc/profile.d/merpati.sh
 
 NAME="Merpati"
-ALIAS="Merpatipatipati"
 STATUS="Building, one brick at a time 🧱"
-LOCATION="Indonesia 🇮🇩"
-FOCUS="Cybersecurity & Web Development"
-PHILOSOPHY="brick by brick i will make my progress"
 ```
 
 <br/>
