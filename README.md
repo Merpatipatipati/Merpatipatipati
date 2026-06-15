@@ -40,7 +40,7 @@ STATUS="Building, one brick at a time 🧱"
 ### `git log --stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merpatipatipati&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merpatipatipati&layout=compact&theme=nightowl&hide_border=true" height="150" alt="top languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=Merpatipatipati&show_icons=true&theme=nightowl&hide_border=true" height="150" alt="github stats" />
 </div>
 
