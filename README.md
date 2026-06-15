@@ -26,15 +26,6 @@ NAME="Merpati"
 STATUS="Building, one brick at a time 🧱"
 ```
 
-<br/>
-
-- 🔐 &nbsp;Interested in **Cybersecurity** & **Web Security**
-- 🌐 &nbsp;Building **Web Applications** with real-world impact  
-- 📡 &nbsp;Exploring **SIEM**, **DDoS Defense**, and **Network Security**
-- 🛠️ &nbsp;Always learning — one commit at a time
-
-<br clear="right"/>
-
 ---
 
 ### `git log --stats`
@@ -68,9 +59,9 @@ STATUS="Building, one brick at a time 🧱"
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  "brick by brick i will make my progress"  🧱            ║
-╚══════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════╗
+║ 「 ✦ "i build this $#!7, me brick by brick " ✦ 」          ║
+╚═════════════════════════════════════════════════════════════╝
 ```
 
 </div>
