@@ -41,7 +41,22 @@ STATUS="Building, one brick at a time 🧱"
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merpatipatipati&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Merpatipatipati&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="github stats" />
+</div>
+
+---
+
+### `Quote of the days`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merpatipatipati&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages" />
+</div>
+
+---
+
+### `Quote of the days`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merpatipatipati&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages" />
 </div>
 
 ---
